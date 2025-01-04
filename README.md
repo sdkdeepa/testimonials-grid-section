@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL:https://github.com/sdkdeepa/testimonials-grid-section
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Live Site URL](https://sdkdeepa.github.io/testimonials-grid-section/)
 
 ## My process
 
