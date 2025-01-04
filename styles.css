@@ -165,10 +165,7 @@ hr {
     color: rgba(0, 128, 128);
     padding-bottom: 1rem;
 }
-.attribution a {
-    text-decoration: none;
 
-}
 
 /* - Mobile: 375px
 - Desktop: 1440px */
@@ -202,10 +199,7 @@ hr {
         text-align: center;
         color: rgba(0, 128, 128);
     }
-    .attribution a {
-        text-decoration: none;
 
-    }
   }
   
   @media screen and (min-width: 900px) {
@@ -242,9 +236,7 @@ hr {
         text-align: center;
         color: rgba(0, 128, 128);
     }
-    .attribution a {
-        text-decoration: none;
-    }
+
   }
 
 
