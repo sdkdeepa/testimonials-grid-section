@@ -33,7 +33,7 @@ Tablet            |  Mobile
 ### Links
 
 - Solution URL:https://github.com/sdkdeepa/testimonials-grid-section
-- [Live Site URL](https://sdkdeepa.github.io/testimonials-grid-section/)
+- [Live Site URL](https://sdkdeepa-testimonials-grid-section.netlify.app/)
 
 ## My process
 ### Built with
